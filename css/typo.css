@@ -1,0 +1,38 @@
+<link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Display&display=swap" rel="stylesheet">
+
+html {font-size: 16px;}
+
+body {
+  background-color: white;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #333;
+}
+
+p {margin-bottom: 1.25em;}
+
+
+h1, h2, h3, h4, h5 {
+  margin: 1rem 0 1rem;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 1rem;
+  font-size: 1.653em;
+}
+
+h2 {font-size: 1.563em;
+  color: pink;
+}
+
+h3 {font-size: 1.953em;}
+
+h4 {font-size: 1.563em;}
+
+h5 {font-size: 1.25em;}
+
+small, .text_small {font-size: 0.8em;}
